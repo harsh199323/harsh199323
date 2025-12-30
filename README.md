@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Scientist and ML Engineer with **5+ years of experience** spanning healthcare analytics, manufacturing optimization, and cutting-edge AI applications. Currently developing ML models for materials science research at the **Federal Institute for Materials Research (BAM)** in Germany.
+I'm a Data Scientist and ML Engineer with **5+ years of experience** spanning healthcare analytics, manufacturing optimization, and cutting-edge AI applications. My recent work involoves developing ML models for materials science research at the **Federal Institute for Materials Research (BAM)** in Germany.
 
 - 🔬 Working on Multi-objective Bayesian Optimization for experimental design
 - 🎙️ Built production-grade audio intelligence system with **4x LLM speedup**
