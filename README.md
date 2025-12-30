@@ -1,4 +1,4 @@
-# Hi there, I'm Harsh Srinivas 👋
+# Hi there, I'm Harshith Srinivas 👋
 
 <div align="center">
   
